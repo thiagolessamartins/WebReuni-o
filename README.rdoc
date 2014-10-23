@@ -1,5 +1,6 @@
 == Observações importantes
 
+
 1ª
 É importante lembrar que para usar o upload do pdf das atas é necessário que instalem no ubuntu o imagemagick, por conta da gem paperclip.
 A instalação pode ser feita pela central de programas do ubuntu.
